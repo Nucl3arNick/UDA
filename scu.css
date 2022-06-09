@@ -1,0 +1,182 @@
+
+#titolo{
+    font-size: 180px;
+    margin-top: 30px;
+    text-shadow: 2px 2px 8px ;
+    color: #3a3a3a;
+    margin-bottom: 0px;
+  
+
+}
+
+#sotto{
+    color: blueviolet;
+    font-size: 40px;
+    margin-top: 0px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px #000000;
+    
+}
+
+#logo69{
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+#materia{
+  font-size: 130px;
+    margin-top: 30px;
+    text-shadow: 2px 2px 4px #000000;
+    color: #e8aa22;
+    margin-bottom: 0px; 
+}
+
+#para{
+  font-size: 35px;
+  margin-top: 5px;
+ color: #3a3a3a;
+ text-align: left;
+ margin-left: 300px;
+margin-right: 300px;
+ line-height: 42px;
+}
+
+h2{
+  font-size: 50px;
+  margin-top: 60px;
+ color: #000000;
+ margin-left: 300px;
+ text-align: left;
+ font-weight: bold;
+ margin-bottom: 10px;
+
+ color: blueviolet;
+ text-shadow: 1px 1px 2px #000000;
+}
+
+#se{
+  
+ 
+  max-width: 800px;
+  height: 300px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px #ccc;
+      -moz-box-shadow: 10px 10px 5px #ccc;
+      -webkit-box-shadow: 10px 10px 5px #ccc;
+      -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+#el{
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+  margin-top: 70px;
+  color: blueviolet;
+  text-align: left;
+  margin-left: 100px;
+  margin-bottom: 5px;
+}
+
+#desc{
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 12px;
+  
+}
+
+#lista{
+  margin-top: 10px;
+  font-size: 30px;
+  margin-bottom: 90px;
+  margin-right: 2px;
+  
+}
+
+li{
+  text-align: center;
+  text-align: left;
+  margin-left: 100px;
+  margin-bottom: 19px;
+}
+
+
+#lista2{
+  margin-top: 10px;
+  font-size: 30px;
+  margin-bottom: 90px;
+  list-style: none;
+  margin-left: 10px;
+ 
+}
+
+@media (max-width: 1025px) {
+  html.boxed body {
+    min-width: 990px; }
+
+    #logo69{
+      height: 110px;
+      width: 110px;
+      margin-top: 10px;
+    }
+
+    #titolo{
+      font-size: 200px;
+      margin-top: 60px;
+  }
+  
+  #sotto{
+      color: blueviolet;
+      font-size: 70px;
+  }
+
+
+  #el{
+    
+    font-size: 90px;
+    margin-left: 100px;
+    margin-bottom: 5px;
+  }
+  
+  #lista{
+    margin-top: 10px;
+    font-size: 50px;
+    margin-bottom: 90px;
+    
+  }
+  
+  li{
+    text-align: center;
+    text-align: left;
+    margin-left: 100px;
+  }
+
+
+  #para{
+    font-size: 50px;
+   margin-left: 40px;
+  margin-right: 30px;
+   line-height: 55px;
+   text-align: left;
+
+  }
+  
+  h2{
+    font-size: 70px;
+    margin-top: 70px;
+   margin-left: 40px;
+  }
+  
+  #se{
+    
+   
+    max-width: 750px;
+    height: 500px;
+    }
+
+
+
+  }
+
+  
